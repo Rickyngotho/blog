@@ -9,11 +9,11 @@ The blog supports comments from readers and blog writers to determine whether to
 
 After the writer has posted a new blog post, subscribers will receive an email notification with a link to the blog post.
 
-Set-up and Installation
+### Set-up and Installation
 Prerequiites
 - Python 3.6
 - Ubuntu software
-Clone the Repo
+Clone the Repo on my  github page https://github.com/Rickyngotho/blog.git
 Run the following command on the terminal: git clone && cd Blog-IP
 
 Install Postgres
@@ -46,6 +46,7 @@ In the same terminal type: python3 manage.py server
 Open the browser on http://localhost:5000/
 
 ### Known bugs
+nothing yet if u ecnounter one please feel free to contact me at the email below.
 
 
 ### Technologies used
